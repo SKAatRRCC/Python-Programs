@@ -1,0 +1,31 @@
+Initials: AS
+
+A Decimal = 65
+S Decimal = 83
+
+A:
+65/2 = 32 remainder of 1
+32/2 = 16 remainder of 0
+16/2 = 8 remainder of 0
+8/2 = 4 remainder of 0
+4/2 = 2 remainder of 0
+2/2 = 1 remainder of 0
+remainder of 1
+01000001
+
+Hex
+41
+
+S:
+83/2 = 41 remainder of 1
+41/2 = 20 remainder of 1
+20/2 = 10 remainder of 0
+10/2 = 5 reaminder of 0
+5/2 = 2 remainder of 1
+2/2 = 1 remainder of 0
+remainder of 1
+
+01010011
+
+Hex 
+53
