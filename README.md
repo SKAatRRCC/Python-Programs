@@ -1,6 +1,6 @@
 #Proficient Python Programmer: Unveiling Accomplishments and Skill Advancements 
 #Proficient Python Programmer: Unveiling Accomplishments and Skill Advancements
-#Embarking on an intensive seven-week Accelerated Python Coding class, I delved into a #myriad of programs, honing a diverse skill set and showcasing a commitment to excellence. #Here’s a closer look at key programs undertaken and the skills exhibited or acquired #throughout this transformative journey:
+#Embarking on an intensive seven-week Accelerated Python Coding class, I delved into a #myriad of programs, honing a diverse skill set and showcasing a #commitment to excellence. #Here’s a closer look at key programs undertaken and the skills exhibited or acquired #throughout this transformative journey:
 
 #Week 1: The Inaugural Code - Numbers and Precision
 #Program: Implemented a Python script for unit conversion (meters to feet), showcasing #precision and an understanding of numeric data types.
